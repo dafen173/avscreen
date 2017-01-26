@@ -1,0 +1,72 @@
+@import "main.css";
+
+
+/* TABLE */
+
+
+table {
+	border-collapse: collapse;
+	border: 1px solid black;
+	color: black;
+	font-size: 15px;
+}
+td, th {
+	border: 1px solid black;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+/*
+.table {
+	width: 99%;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+*/
+#listManual li {
+	list-style-type: disc;
+	font-size: 15px;
+}
+.table tr:nth-child(n+1):hover {	
+	background-color: lightgrey;
+}
+#format {
+	background-color: white;
+}
+#manual-text {
+	margin-left: 35px;
+}
+#productPhoto {
+	border: none;
+}
+#productPhoto img {
+	border: 1px solid black;
+}
+#meh-n, #meh-t {
+	white-space: nowrap;
+}
+
+
+
+
+/* HEADER */
+
+#header-wrapper {
+	background-color: lightgrey;
+}
+#logo h1 {
+	background-color: black;
+}
+
+
+.boxHover {
+	border: 1px solid white;
+}
+
+.boxHover:hover {
+	border: 1px solid black;
+}
+
+
