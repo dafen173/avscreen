@@ -54,7 +54,7 @@ td, th {
 /* HEADER */
 
 #header-wrapper {
-    background: linear-gradient(to top, #FFFAFA, #483D8B);
+    background: linear-gradient(to top, #f7f7f7, #483D8B);
 }
 #logo h1 {
 	background-color: black;
@@ -75,3 +75,6 @@ td, th {
 		font-size: 1em;
 		text-shadow: 2px 8px 6px rgba(0,0,0,0.2), 0px -5px 35px rgba(255,255,255,0.3);
 	}
+
+
+
