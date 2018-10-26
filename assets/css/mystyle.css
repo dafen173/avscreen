@@ -77,4 +77,8 @@ td, th {
 	}
 
 
+/* PARAGRAPHS */
 
+.paragraph {
+	text-indent: 40px;
+}
